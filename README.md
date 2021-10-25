@@ -51,7 +51,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ngarg2k2/github-readme-activity-graph"><img alt="Nipun Garg's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ngarg2k2&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/ngarg2k2/github-readme-activity-graph"><img alt="Nipun Garg's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ngarg2k2&custom_title=This%20is%20a%20title&hide_border=true" /></a> -->
+
 
 <br/>
 <br/>
